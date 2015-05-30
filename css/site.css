@@ -1,0 +1,68 @@
+body {
+  background-color: #FFF;
+}
+
+.name, .profession {
+  color: #4F4F4F;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.name {
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+.profession {
+  font-size: 20px;
+}
+
+.content {
+  text-align: center;
+}
+
+.personal-picture {
+  height: 298px;
+  width: 298px;
+  border-radius: 149px;
+}
+
+.external-links {
+  text-align: center;
+}
+
+.social a {
+  width: 35px;
+  height: 35px;
+  display: block;
+  font-size: 0;
+}
+
+.social li {
+  display: inline-block;
+}
+
+.twitter {
+  background: url('../img/social-icons.png') no-repeat -1px 0;
+}
+.gplus {
+  background: url('../img/social-icons.png') no-repeat -41px 0;
+}
+.linkedin {
+  background: url('../img/social-icons.png') no-repeat -1px -36px;
+}
+.github {
+  background: url('../img/social-icons.png') no-repeat -78px -36px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #FFFFFE;
+  border-top: 1px solid #9F9F9F;
+  left: 0;
+  right: 0;
+  text-align: center;
+  height: 2em;
+  padding-top: 2em;
+}

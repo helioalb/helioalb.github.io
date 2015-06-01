@@ -25,6 +25,7 @@ body {
   height: 298px;
   width: 298px;
   border-radius: 149px;
+  margin: 30px 0;
 }
 
 .external-links {
@@ -68,6 +69,22 @@ footer {
 }
 
 @media only screen and (max-device-width: 480px) {
+  .name {
+    font-size: 25px;
+    margin: 10px 0;
+  }
+
+  .profession {
+    font-size: 15px;
+  }
+
+  .personal-picture {
+    height: 140px;
+    width: 140px;
+    border-radius: 70px;
+    margin: 20px 0;
+  }
+
   footer {
     position: relative;
     display: none;

@@ -66,3 +66,10 @@ footer {
   height: 2em;
   padding-top: 2em;
 }
+
+@media only screen and (max-device-width: 480px) {
+  footer {
+    position: relative;
+    display: none;
+  }
+}

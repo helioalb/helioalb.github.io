@@ -1,0 +1,30 @@
+h1, h2 {
+  text-align: center;
+}
+.gradient {
+  font-size: 2rem;
+  color: #ffffcc;
+  width: 15em;
+  margin: 1em auto;
+  padding: 1em;
+}
+
+.tobottom {
+  background-image: linear-gradient(to bottom, #00F, #CCC);
+}
+
+.totop {
+  background-image: linear-gradient(to top, #00F, #CCC);
+}
+
+.toright {
+  background-image: linear-gradient(to right, #00F, #CCC);
+}
+
+.toleft {
+  background-image: linear-gradient(to left, #00F, #CCC);
+}
+
+.torightbottom {
+  background-image: linear-gradient(to right bottom, #00F, #CCC);
+}

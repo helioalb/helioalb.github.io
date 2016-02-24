@@ -51,12 +51,15 @@ body {
 .twitter {
   background: url('../img/social-icons.png') no-repeat -1px 0;
 }
+
 .gplus {
   background: url('../img/social-icons.png') no-repeat -41px 0;
 }
+
 .linkedin {
   background: url('../img/social-icons.png') no-repeat -1px -36px;
 }
+
 .github {
   background: url('../img/social-icons.png') no-repeat -78px -36px;
 }

@@ -29,6 +29,18 @@ h1, h2 {
   background-image: linear-gradient(to right bottom, #00F, #CCC);
 }
 
+.radial {
+  background-image: radial-gradient(yellow, red);
+}
+
+.radial-not-in-center {
+  background-image: radial-gradient(circle at bottom left, yellow, red);
+}
+
+.radial-bottom-center {
+  background-image: radial-gradient(circle at bottom center, yellow, red);
+}
+
 .cerejadobolo {
   background-color: #710A3A;
   background-image: linear-gradient(135deg, transparent, transparent 14px, rgba(0, 0, 0, 0.1) 14px, rgba(0, 0, 0, 0.1) 16px, transparent 16px, transparent);

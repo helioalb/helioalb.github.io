@@ -2,7 +2,7 @@
 layout: post
 title:  "To infinity and beyond"
 date:   2019-12-01 22:51:03 -0300
-categories: software behavior
+categories: behavior
 ---
 
 It's been a long time since I thought to make a blog to register my day by day learnings in software development. The idea becomes reality when I watch the video below (I extremely recommend) 

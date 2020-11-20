@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "SAML 2.0"
+date:   2020-11-20 08:45:03 -0300
+categories: software
+---
+
+# SAML 2.0
+
+**SAML** is an acronym for _Security Assertion Markup Language_.
+
+## How does it work?
+
+The idea is that an **identity provider** "talks" to a **service provider** something like this:
+
+_Hey man, I know this guy that is trying to sign. Here are his name, email, and all that I know about him. You can trust in me._
+
+This "talk" is made by an **XML**. And the traffic of this **XML** is made over an X.509 certificate.
+
+## Scenarios
+
+The user enters the **URL** of a **service provider** in the browser. The **service provider** "asks" to **identity provider** if the user can be authenticated.
+
+If the user already is logged in to the **identity provider** (i.e. exists a live session with the **identity provider**), the **identity provider** "says" via **XML** that the user can be authenticated.
+
+If the user is not logged in to the **identity provider**, then, the **identity provider** will ask to this user do its login. If it has success, the **identity provider** "says" to the **service provider** that the user can be authenticated.
+

@@ -5,8 +5,6 @@ date:   2020-11-20 08:45:03 -0300
 categories: software
 ---
 
-# Adding ssh key to github
-
 On github you need search by **Settings**.
 
 ![Settings](/images/github-ssh/1.png)

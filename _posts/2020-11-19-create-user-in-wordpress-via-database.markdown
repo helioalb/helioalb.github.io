@@ -5,8 +5,6 @@ date:   2020-11-19 08:45:03 -0300
 categories: software
 ---
 
-# Create user in Wordpress via database
-
 Inside your database:
 
 ```sql

@@ -5,8 +5,6 @@ date:   2020-11-20 08:45:03 -0300
 categories: software
 ---
 
-# Adding images in Jekyll posts
-
 In the `_config.yml` you should set the `url` with your site url.
 
 In your posts you can do something like this:

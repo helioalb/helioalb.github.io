@@ -5,8 +5,6 @@ date:   2020-11-16 22:51:03 -0300
 categories: software
 ---
 
-# Create user in MySQL
-
 ```shell
 mysql -uroot
 ```

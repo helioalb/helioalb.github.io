@@ -5,8 +5,6 @@ date:   2020-12-04 05:45:03 -0300
 categories: algorithm
 ---
 
-# Big O examples
-
 ## O(n)
 
 ```python

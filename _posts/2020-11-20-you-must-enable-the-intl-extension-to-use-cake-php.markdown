@@ -5,8 +5,6 @@ date:   2020-11-20 08:45:03 -0300
 categories: software
 ---
 
-# You must enable the intl extension to use CakePHP
-
 This is a common error when running CakePHP.
 
 First install php-intl:

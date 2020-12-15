@@ -5,8 +5,6 @@ date:   2020-11-20 08:45:03 -0300
 categories: software
 ---
 
-# SAML 2.0
-
 **SAML** is an acronym for _Security Assertion Markup Language_.
 
 ## How does it work?

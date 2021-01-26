@@ -2,7 +2,7 @@
 layout: post
 title:  "Python strings"
 date:   2020-12-17 05:45:03 -0300
-categories: algorithm
+categories: algorithm python
 ---
 
 ## Defining a string
@@ -14,9 +14,9 @@ s = 'my first string'
 ## Repeting a string
 
 ```python
-s = 'cuelhino, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no ' * 3
+s = 'cuelhinho, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no ' * 3
 s
-'cuelhino, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no cuelhino, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no cuelhino, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no '
+'cuelhinho, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no cuelhinho, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no cuelhinho, se eu fosse como tu, tirava a mao do bolso e enfiava a mao no '
 ```
 
 

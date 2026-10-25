@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create user in MySQL"
+title:  Create user in MySQL
 date:   2020-11-16 22:51:03 -0300
 categories: software
 ---

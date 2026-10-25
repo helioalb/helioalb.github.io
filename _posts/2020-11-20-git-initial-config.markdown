@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git, initial config"
+title:  Git, initial config
 date:   2020-11-20 08:45:03 -0300
 categories: software
 ---

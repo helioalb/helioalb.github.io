@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create user in Wordpress via database"
+title:  Create user in Wordpress via database
 date:   2020-11-19 08:45:03 -0300
 categories: software
 ---

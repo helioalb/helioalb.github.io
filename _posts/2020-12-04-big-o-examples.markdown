@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big O examples"
+title:  Big O examples
 date:   2020-12-04 05:45:03 -0300
 categories: algorithm
 ---

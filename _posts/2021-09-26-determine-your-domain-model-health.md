@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Determine Your Domain Model Health"
+title:  Determine Your Domain Model Health
 date:   2021-09-26 04:45:03 -0300
 categories: software ddd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You must enable the intl extension to use CakePHP"
+title:  You must enable the intl extension to use CakePHP
 date:   2020-11-20 08:45:03 -0300
 categories: software
 ---

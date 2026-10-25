@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Difference between URL, URI and URN"
+title:  Difference between URL, URI and URN
 date:   2019-12-02 15:27:03 -0300
 categories: software 
 ---

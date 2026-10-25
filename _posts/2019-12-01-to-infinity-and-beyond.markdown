@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "To infinity and beyond"
+title:  To infinity and beyond
 date:   2019-12-01 22:51:03 -0300
 categories: behavior
 ---

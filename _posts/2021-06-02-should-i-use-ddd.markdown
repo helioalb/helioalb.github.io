@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Should I use DDD?"
+title:  Should I use DDD?
 date:   2021-06-02 05:45:03 -0300
 categories: software ddd
 ---

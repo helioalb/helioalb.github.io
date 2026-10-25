@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python arrays"
+title:  Python arrays
 date:   2020-12-15 05:45:03 -0300
 categories: algorithm python
 ---

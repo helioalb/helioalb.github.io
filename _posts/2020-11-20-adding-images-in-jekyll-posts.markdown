@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding images in Jekyll posts"
+title:  Adding images in Jekyll posts
 date:   2020-11-20 08:45:03 -0300
 categories: software
 ---

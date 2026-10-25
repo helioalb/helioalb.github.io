@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AWS lambda + MySQL"
+title:  AWS lambda + MySQL
 date:   2020-11-16 22:51:03 -0300
 categories: software
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python strings"
+title:  Python strings
 date:   2020-12-17 05:45:03 -0300
 categories: algorithm python
 ---

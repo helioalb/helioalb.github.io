@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optional java"
+title:  Optional java
 date:   2021-01-26 05:45:03 -0300
 categories: software java
 ---

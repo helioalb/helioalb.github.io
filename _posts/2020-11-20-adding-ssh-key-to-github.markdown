@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding ssh key to github"
+title:  Adding ssh key to github
 date:   2020-11-20 08:45:03 -0300
 categories: software
 ---
